@@ -33,6 +33,6 @@ The work was conducted at NEU / Lefkoşa-Cyprus.
 
 
 ## Sample Images
-![Sample Image 1](sample_image1.png)
-![Sample Image 2](sample_image2.png)
-![Sample Image 3](sample_image3.png)
+![Sample Image 1](33-2.png)
+![Sample Image 2](33-3.png)
+![Sample Image 3](33-4.png)

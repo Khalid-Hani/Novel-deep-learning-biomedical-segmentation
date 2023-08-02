@@ -1,4 +1,5 @@
-# Thesis Title
+# My Masters Degree Thesis 
+## Title
 **"Automatic Primary Hepatic Tumors Segmentation in CT Images Using Convolutional Neural Networks"**
 
 ## Thesis Aim
